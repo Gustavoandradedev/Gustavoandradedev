@@ -2,6 +2,10 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gustavobjj&repo=Gustavobjj&countColorcountColor)
 
+### Hi! I'm Gustavo Andrade Software Developer.
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 Here are some ideas to get you started:
 
