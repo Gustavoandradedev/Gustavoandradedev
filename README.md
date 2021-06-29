@@ -3,6 +3,9 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gustavobjj&repo=Gustavobjj&countColorcountColor)
 
 ### Hi! I'm Gustavo Andrade Software Developer.
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.💻
+
+- 📍 From SP living in Campinas
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
@@ -37,3 +40,5 @@
 	<a href="https://www.linkedin.com/in/gustavo-nascimento-andrade/"><img src="https://img.shields.io/badge/-gustavoandrade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   
 <p/>  
+
+#### References: [Snake animation](https://github.com/Platane/snk) ➕ [Guillaume Falourd](https://dev.to/guifalourd/step-by-step-to-create-a-readme-for-your-github-profile-1i0g)
