@@ -2,7 +2,7 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gustavobjj&repo=Gustavobjj&countColorcountColor)
 
-### Hi! I'm Gustavo Andrade Software Developer.
+### Hi! I'm Gustavo Andrade.
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.💻
 
 - 📍 From SP living in Campinas
