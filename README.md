@@ -31,7 +31,4 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gustavobjj&hide_border=true)
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/gustavo-nascimento-andrade-5504aa201"><img src="https://img.shields.io/badge/-gustavo-nascimento-andrade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-	
-</p>
+
