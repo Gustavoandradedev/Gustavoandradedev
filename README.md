@@ -28,11 +28,11 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobjj&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoandradedev&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Gustavobjj&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Gustavoandradedev&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gustavobjj&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gustavoandradedev&hide_border=true)
 
 ### Let's connect ? 🤝
 
