@@ -38,7 +38,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/gustavo-nascimento-andrade-5504aa201/"><img src="https://img.shields.io/badge/-gustavoandrade-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  
+	<a href="https://www.instagram.com/gustavojiu/"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link"/></a>
 <p/>  
 
 #### References: [Snake animation](https://github.com/Platane/snk) ➕ [Guillaume Falourd](https://dev.to/guifalourd/step-by-step-to-create-a-readme-for-your-github-profile-1i0g)
