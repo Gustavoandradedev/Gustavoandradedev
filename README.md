@@ -7,6 +7,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - 📍 From SP living in Campinas
 
+
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
@@ -33,6 +34,13 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Gustavoandradedev&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gustavoandradedev&hide_border=true)
+
+### Main projects
+https://dsvendas-celebridades.netlify.app/ <br/>
+https://github.com/Gustavoandradedev/projeto-sds4
+
+https://ifood-sds2.netlify.app/ <br/>
+https://github.com/Gustavoandradedev/dsdeliver-sds2
 
 ### Let's connect ? 🤝
 
