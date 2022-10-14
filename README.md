@@ -10,6 +10,14 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Coding" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
+
+<img align="right" alt="Codando" width="500" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
+
+</div>
+
 ### Languages & Tools 🛠
 
 <div style="display: inline_block"><br>
