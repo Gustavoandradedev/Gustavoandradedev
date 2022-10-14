@@ -13,9 +13,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### Languages & Tools 🛠
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![ADVPL](https://img.shields.io/badge/-ADVPL-brightgreen)&nbsp;
-![Protheus](https://img.shields.io/badge/-Protheus-orange)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=white)&nbsp;
+![ADVPL](https://img.shields.io/badge/-ADVPL-05122A?style=flat&logo=ADVPL&logoColor=white)&nbsp;
+![Protheus](https://img.shields.io/badge/-Protheus-05122A?style=flat&logo=Protheus&logoColor=white)&nbsp;
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
@@ -28,6 +28,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm&logoColor=007ACC)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 ### Analytics ⚙️
