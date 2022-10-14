@@ -14,6 +14,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![ADVPL](https://img.shields.io/badge/-ADVPL-brightgreen)&nbsp;
+![Protheus](https://img.shields.io/badge/-Protheus-orange)&nbsp;
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
