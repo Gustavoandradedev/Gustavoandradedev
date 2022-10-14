@@ -12,8 +12,14 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### Languages & Tools 🛠
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=white)&nbsp;
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+
 ![ADVPL](https://img.shields.io/badge/-ADVPL-05122A?style=flat&logo=ADVPL&logoColor=white)&nbsp;
 ![Protheus](https://img.shields.io/badge/-Protheus-05122A?style=flat&logo=Protheus&logoColor=white)&nbsp;
 
