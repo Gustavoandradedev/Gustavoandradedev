@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavoandradedev&label=Profile%20views&color=129e00&style=plastic" alt="Gustavoandradedev" /> </p>
 <h1>🤓 Hello World ! </h1>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gustavobjj&repo=Gustavobjj&countColorcountColor)
@@ -12,7 +13,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Coding" width="370" src="https://media1.giphy.com/media/zwmJRJY6MGnOo/giphy.gif">
+<img align="center" alt="Coding" width="370" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/raw/main/gifs/multi.gif">
 </div>
 
 ### Languages & Tools 🛠
